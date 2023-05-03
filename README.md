@@ -34,7 +34,7 @@ The interactive version can be found [our website](https://anania.ai/chatgpt-alt
 | h2oGPT | 12B, 20B | H2O | Yes | Allowed | GPT-NeoX | [Link](https://huggingface.co/h2oai/h2ogpt-oasst1-512-20b) | [Link](https://github.com/h2oai/h2ogpt) | [Link](https://gpt.h2o.ai/) |
 | BARD | Unknown | Google | No | Allowed | LaMDA |   | [Link](https://blog.google/technology/ai/bard-google-ai-search-updates//) |   |
 | BLOOMZ | 1B, 3B, 7B, 176B | HuggingFace et al | Yes | Allowed | BLOOM | [Link](https://huggingface.co/bigscience/bloomz) | [Link](https://arxiv.org/abs/2211.01786) | [Link](https://huggingface.co/bigscience/bloomz) |
-| mT0 | 1B, 3B | HuggingFace et al | Yes | Allowed | T0 | [Link](https://huggingface.co/bigscience/mt0-xxl) | [Link]((https://github.com/bigscience-workshop/xmtf) | [Link](https://huggingface.co/bigscience/mt0-xxl) |
+| mT0 | 1B, 3B | HuggingFace et al | Yes | Allowed | T0 | [Link](https://huggingface.co/bigscience/mt0-xxl) | [Link](https://github.com/bigscience-workshop/xmtf) | [Link](https://huggingface.co/bigscience/mt0-xxl) |
 | FastChat-T5 | 3B | Large Model Systems Organization | Yes | Allowed | Flan-t5-xl | [Link](https://huggingface.co/lmsys/fastchat-t5-3b-v1.0) | [Link](https://github.com/lm-sys/FastChat#FastChat-T5) |   |
 | ChatGLM | 6B | Data Mining Research Group at Tsinghua University | Yes | Allowed | GLM | [Link](https://huggingface.co/THUDM/chatglm-6b) | [Link](https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md) | [Link](https://huggingface.co/spaces/ysharma/ChatGLM-6b_Gradio_Streaming) |
 | Raven | 7B, 14B | BlinkDL | Yes | Allowed | RWKV | [Link](https://huggingface.co/BlinkDL/rwkv-4-pile-14b) | [Link](https://github.com/BlinkDL/ChatRWKV) | [Link](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) |
