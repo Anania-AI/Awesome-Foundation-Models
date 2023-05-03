@@ -15,7 +15,7 @@ Contributions to this list are welcome. Add links through pull requests or creat
 ## ChatGPT Alternatives
 ​
 The table below is a collection of both open-source and close-source Langauge models that can be described as ChatGPT alternatives.
-The interactive version can be found [our website](https://anania.ai/chatgpt-alternatives).
+The interactive version can be found on [our website](https://anania.ai/chatgpt-alternatives).
 ​
 | Model | Size | Creator | Open-Source | Commercial usage | Base Model | Weights on HF | More Info | Online Demo |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
