@@ -1,22 +1,22 @@
 # Awesome Foundation Models [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-​
+
 > A curated list of Foundation Models.
-​
-Contributions to this list are welcome. Add links through pull requests or create an issue to start a discussion.
-​
+
+Contributions to this list are welcome. Add links through [pull requests](https://github.com/Anania-AI/Awesome-Foundation-Models/pulls) or [create an issue](https://github.com/Anania-AI/Awesome-Foundation-Models/issues) to start a discussion.
+
 ## Contents
-​
-- [ChatGPT Alternatives](#ChatGPT-Alternatives)
+
+- [ChatGPT Alternatives](#chatgpt-alternatives)
 - Coming next:
-  - [Language Models](#Langauge-Models)
+  - [Language Models](#langauge-models)
   - [Text-to-Image Models](#text-to-image-models)
-​
-​
+
+
 ## ChatGPT Alternatives
-​
+
 The table below is a collection of both open-source and close-source Langauge models that can be described as ChatGPT alternatives.
 The interactive version can be found on [our website](https://anania.ai/chatgpt-alternatives).
-​
+
 | Model | Size | Creator | Open-Source | Commercial usage | Base Model | Weights on HF | More Info | Online Demo |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LLaMA | 7B, 13B, 33B, 65B | Meta AI | Yes | Disallowed | LLaMA | [Link](https://huggingface.co/elinas/llama-65b-hf-transformers-4.29) | [Link](https://arxiv.org/abs/2302.13971) | [Link](https://huggingface.co/spaces/project-baize/Baize-7B) |
